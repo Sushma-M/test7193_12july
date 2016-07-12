@@ -5,7 +5,7 @@ var _WM_APP_PROPERTIES = {
   "homePage" : "Main",
   "name" : "test7193",
   "platformType" : "WEB",
-  "supportedLanguages" : "en",
+  "supportedLanguages" : "en,te",
   "type" : "APPLICATION",
   "version" : "1.0"
 };

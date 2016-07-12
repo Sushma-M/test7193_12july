@@ -101,8 +101,10 @@
     "name" : "supportedLocale",
     "owner" : "App",
     "category" : "wm.Variable",
+    "dataBinding" : [ ],
     "dataSet" : {
-      "en" : "English"
+      "en" : "English",
+      "te" : "తెలుగు"
     },
     "type" : "string",
     "isList" : false,
