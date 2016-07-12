@@ -1,0 +1,19 @@
+{
+  "enforceSecurity" : true,
+  "rememberMeConfig" : null,
+  "sslConfig" : {
+    "sslPort" : 443,
+    "useSSL" : false,
+    "excludedUrls" : null
+  },
+  "authProviders" : [ "DATABASE" ],
+  "login" : {
+    "type" : "DIALOG",
+    "pageName" : "Login",
+    "sessionTimeout" : {
+      "type" : "DIALOG",
+      "pageName" : null,
+      "timeoutValue" : 30
+    }
+  }
+}
